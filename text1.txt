@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 HI i'm sachin.im on job.bob
-=======
+
 HI i'm sachin.im on job.alice
->>>>>>> a39fe936b1ea89aac99f742806eacc2359accd88
+
